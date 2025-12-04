@@ -174,3 +174,5 @@ st.markdown("""
         © 2025 Developed by Li Yuanxi (Chang'an University) | 毕业设计专用
     </div>
     """, unsafe_allow_html=True)
+# 在 load_model() 下面，或者 st.title() 下面加这一句
+st.write("🔍 模型真正需要的列名列表：", model_cols)
