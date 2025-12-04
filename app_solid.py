@@ -78,7 +78,7 @@ input_dict = {
     'fyh': fyh, 
     'pv': pv, 
     'fyv': fyv,
-    'aggregate': int(aggregate_val)  # === 新增：加入特征 ===
+    'Aggregate': int(aggregate_val)  # === 新增：加入特征 ===
 }
 
 # --- 4. 主界面展示 ---
