@@ -168,3 +168,9 @@ st.markdown("""
             color: #bbbbbb;
         }
     }
+</style>
+    
+    <div class="watermark">
+        © 2025 Developed by Li Yuanxi (Chang'an University) | 毕业设计专用
+    </div>
+    """, unsafe_allow_html=True)
